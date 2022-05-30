@@ -63,14 +63,5 @@ header h1{
     font-size: 14pt;
     width: 80pt;
     margin-bottom: 15pt;
-}
-
-.resultado button:hover{
     cursor: pointer;
-}
-
-.resultado label{
-    color: #00BFFF;
-    margin-top: 10pt;
-    margin-bottom: 10pt;
 }
